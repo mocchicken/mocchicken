@@ -1,0 +1,23 @@
+@font-face {
+    font-family: Aurora;
+    src: url(../fonts/UTM-Aurora.ttf);
+}
+@font-face {
+    font-family: Helve;
+    src: url(../fonts/UTM-Helve.ttf);
+}
+@font-face {
+    font-family: Helve;
+    src: url(../fonts/UTM-Helve-Italic.ttf);
+    font-style: italic;
+}
+@font-face {
+    font-family: Helve;
+    src: url(../fonts/UTM-HelveBold.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: Helve;
+    src: url(../fonts/UTM-HelveBold-Italic.ttf);
+    font-weight: bolder;
+}
